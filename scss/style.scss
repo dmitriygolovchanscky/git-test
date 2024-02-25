@@ -1,0 +1,17 @@
+@import "_nullstyle";
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 1 auto;
+}
+body.lock {
+  overflow: hidden;
+}
+.container {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
