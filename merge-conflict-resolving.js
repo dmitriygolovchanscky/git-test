@@ -1,2 +1,2 @@
-console.log("merge")
-console.log("mergesdfhf")
+console.log("merge");
+console.log("update 2");
